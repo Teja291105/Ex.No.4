@@ -1,7 +1,7 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-# NAME:AASHIKA PARVEEN M R
-# REGISTER NUMBER: 212223060002
-# DATE: 13/09/2025
+# NAME:TEJASHREE J
+# REGISTER NUMBER: 212223060285
+# DATE: 19/09/2025
 ## Aim
 To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
 
@@ -43,7 +43,8 @@ Set up data transmission through secure protocols.
 Configure cloud dashboards for visualization.
 Train staff for monitoring and basic troubleshooting.
 # 4. Prompt Size Limitations
-PRompt-Eng-03-1024x768
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/aa5831c8-b2fa-4b98-8d0a-f06231abef37" />
+
 
 Observation:
 When prompts exceed 200 tokens, AI tends to summarize instead of generating detailed steps. Splitting complex prompts into smaller ones improved the depth and relevance of outputs.
@@ -68,6 +69,8 @@ T2	Schedule predictive maintenance	Auto-generate work orders
 T3	Control conveyor belt speed	Adjust speed based on load and timing
 T4	Track power consumption per unit	Display real-time and historical usage
 T5	Report generation	Generate daily/weekly efficiency reports
+<img width="918" height="285" alt="image" src="https://github.com/user-attachments/assets/cf03c3f0-d4ba-4765-9643-91cf82f913f6" />
+
 # 7. Role-Based Prompt
 Prompt Used:
 "What should different stakeholders (technicians, supervisors, IT staff) expect from a factory automation dashboard?"
@@ -92,7 +95,8 @@ Generated Output:
 The system must aim to boost production by 30%, automate 70% of manual tasks, and reduce machine downtime by 50%. It should also achieve a 20% cut in energy consumption through intelligent process control.
 
 # 10. Limitation and Constraint Prompt
-67d365eced8697e7f3d66cbe_67ab938e4458b66fed3ba339_Screenshot20121422
+<img width="1042" height="459" alt="image" src="https://github.com/user-attachments/assets/ed7e373c-0fbc-4122-96b0-f47dd318c27b" />
+
 
 Prompt Used:
 "What are the possible limitations when implementing IoT-based automation in legacy factories?"
